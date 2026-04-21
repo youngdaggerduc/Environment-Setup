@@ -1,4 +1,4 @@
-# Portfolio Website
+# Environment Setup
 
 FastAPI + Tortoise ORM backend, React (Vite) frontend.
 
